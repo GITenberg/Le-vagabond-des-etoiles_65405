@@ -1,0 +1,48 @@
+_repo: Le-vagabond-des-etoiles_65405
+_version: 0.0.1
+alternative_title: The star rover. French
+contributor:
+  translators:
+  - agent_name: Gruyer, Paul
+    birthdate: 1868
+    deathdate: 1930
+    gutenberg_agent_id: '53318'
+    url: http://www.gutenberg.org/2009/agents/53318
+    wikipedia: https://fr.wikipedia.org/wiki/Paul_Gruyer
+  - agent_name: Postif, Louis
+    birthdate: 1887
+    deathdate: 1942
+    gutenberg_agent_id: '53319'
+    url: http://www.gutenberg.org/2009/agents/53319
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Postif
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: https://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2021-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65405'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'San Quentin (Calif.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Death row inmates -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Astral projection -- Fiction'
+- !lcsh 'Reincarnation -- Fiction'
+- !lcsh 'California State Prison at San Quentin -- Fiction'
+- GITenberg
+title: Le vagabond des étoiles
+url: http://www.gutenberg.org/ebooks/65405
