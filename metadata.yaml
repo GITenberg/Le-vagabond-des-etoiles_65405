@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '53319'
     url: http://www.gutenberg.org/2009/agents/53319
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Postif
+covers:
+- cover_type: archival
+  image_path: 65405-h/images/cover.jpg
 creator:
   author:
     agent_name: London, Jack
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: https://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65405#Le-vagabond-des-etoiles
 gutenberg_issued: '2021-05-21'
 gutenberg_type: Text
 identifiers:
